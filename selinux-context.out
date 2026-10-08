@@ -1,0 +1,2 @@
+drwxr-xr-x. 3 root root system_u:object_r:httpd_sys_content_t:s0 4096 окт  8 14:54 /mephi-web
+-rw-r--r--. 1 root root unconfined_u:object_r:httpd_sys_content_t:s0 27 окт  8 14:54 /mephi-web/index.html
